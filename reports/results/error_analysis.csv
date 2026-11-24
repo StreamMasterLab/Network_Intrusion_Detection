@@ -1,0 +1,4 @@
+Model,False Positive,False Negative,False Positive Rate,False Negative Rate
+Random Forest,1042,580,0.09303571428571429,0.024301336573511544
+Decision Tree,966,1039,0.08625,0.04353291155151465
+Logistic Regression,2000,272,0.17857142857142858,0.01139648887585369

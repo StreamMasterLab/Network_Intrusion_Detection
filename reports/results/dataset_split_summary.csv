@@ -1,0 +1,4 @@
+Dataset,Records,Features,Normal,Malicious
+Training,140274,42,44800,95474
+Validation,35067,42,11200,23867
+Testing,82332,42,37000,45332

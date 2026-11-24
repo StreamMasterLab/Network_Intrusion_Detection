@@ -1,0 +1,36 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE Configuration
+.idea/
+.vscode/
+
+# Testing Cache
+.pytest_cache/
+
+# Large Dataset Files
+data/raw/*.csv
+data/processed/*.csv
+
+# Trained Model Files
+models/*.pkl
+
+# Environment Variables
+.env
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# System Files
+.DS_Store
+Thumbs.db

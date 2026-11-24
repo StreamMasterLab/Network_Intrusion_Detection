@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,F1 Score,ROC AUC,True Negative,False Positive,False Negative,True Positive,False Negative Rate,False Positive Rate,Model,Model Type
+0.8722125054656755,0.8188696528350279,0.9860142945380747,0.8947026031606233,0.9786066778196179,27113,9887,634,44698,0.013985705461925351,0.2672162162162162,Random Forest,Baseline

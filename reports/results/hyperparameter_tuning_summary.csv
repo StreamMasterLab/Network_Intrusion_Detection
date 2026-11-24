@@ -1,0 +1,4 @@
+Model,Best CV Accuracy,Best CV Precision,Best CV Recall,Best CV F1 Score,Best CV ROC AUC,Tuning Time (Seconds),Best Parameters
+Random Forest,0.9534126011554187,0.9567061039292615,0.9757106546893741,0.9661129987304058,0.9921847187705568,1800.7410125999886,"{'classifier__max_depth': None, 'classifier__n_estimators': 100}"
+Decision Tree,0.9444016780683056,0.9455045696018087,0.9745376231970205,0.9597771911373293,0.9874882781328818,407.2545187000069,"{'classifier__max_depth': 10, 'classifier__min_samples_leaf': 5}"
+Logistic Regression,0.9348917161402335,0.9220143116739692,0.9879024716214291,0.9538212864241103,0.9839077160377012,217.82971619997988,"{'classifier__C': 1, 'classifier__class_weight': None}"

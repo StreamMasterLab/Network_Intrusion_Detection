@@ -1,0 +1,14 @@
+{
+    "Logistic Regression": {
+        "classifier__C": 1,
+        "classifier__class_weight": null
+    },
+    "Decision Tree": {
+        "classifier__max_depth": 10,
+        "classifier__min_samples_leaf": 5
+    },
+    "Random Forest": {
+        "classifier__max_depth": null,
+        "classifier__n_estimators": 100
+    }
+}

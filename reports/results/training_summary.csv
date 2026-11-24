@@ -1,0 +1,4 @@
+Model,Training Time (Seconds),Status
+Logistic Regression,13.32,Successfully Trained
+Decision Tree,19.54,Successfully Trained
+Random Forest,137.91,Successfully Trained
